@@ -1,9 +1,9 @@
-int main()
+#include <ionstream>
+using namespace std;
+
 {
-  int i;
-  for (i = 0; i < 10; i++)
-  {
-    printf("School\n");
-  }
-  return 0;
+  int main
+  std::cout <<"Hello school!";
+  std::cout <<"Thank you for the opportunity.";
+  system ("paused>0");
 }
